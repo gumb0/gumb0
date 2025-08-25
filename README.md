@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="548" height="500" alt="image" src="https://github.com/user-attachments/assets/29e1ae9e-277e-4145-bf47-55dd753d7ee0" />
+
 
 <!--
 **gumb0/gumb0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
