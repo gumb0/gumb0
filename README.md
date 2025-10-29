@@ -2,8 +2,8 @@
 
 - 🛠️ Infrastructure / Core Software Engineer, sometimes wearing a researcher hat.
 - ⚡ Interested in all kinds of decentralized tech, but my primary background is in Ethereum Execution Layer and EVM.
-- 🦀 My main language has always been C++. I find it still fun, but also am excited about Rust. Can do Go, too.
-- 🚀 Currently looking for the next role.
+- 🦀 My main language has always been C++. I still find it fun, but also am excited about Rust. Can do Go, too.
+- 🚀 Currently looking for the next role. Find my resume [here](./resume/Andrei-Maiboroda-Resume.pdf).
 
 ### 🔧 Notable projects
 
