@@ -7,7 +7,7 @@
 
 ### 🔧 Notable projects
 
-- [EOF (EVM Object Format)](https://github.com/ipsilon/eof) - series of proposals for evolving EVM into something that doesn't suck.
+- [EOF (EVM Object Format)](https://evmobjectformat.xyz) - series of proposals for evolving EVM into something that doesn't suck.
 - [evmone](https://github.com/ipsilon/evmone) - the fastest EVM interpreter out there. Supports [EVMC](https://github.com/ipsilon/evmc) interface.
 - [Fizzy](https://github.com/wasmx/fizzy) - fast, deterministic, and pedantic WebAssembly interpreter written in C++.
 - [aleth](https://github.com/ethereum/aleth) (f.k.a. cpp-ethereum) - one of the original Ethereum clients in C++, sunset in 2020.
